@@ -1,1 +1,3 @@
 # TicTacToe-Python
+
+A very simple command line driven functional tic-tac-toe game for python beginners......
